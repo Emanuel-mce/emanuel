@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('amigos.jpg');
+    background-image: url("fondo.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -49,4 +49,5 @@ button:hover {
 
 
  
+
 
